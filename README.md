@@ -78,9 +78,6 @@ En Sol Pico Ala, respetamos tu privacidad, por ello, queremos informarte sobre c
 
     La aplicación no constituye un servicio oficial del gobierno ni reemplaza información oficial proporcionada por organismos públicos.
 
-    Para información oficial recomendamos consultar directamente los sitios web gubernamentales correspondientes.
-    https://www.santafe.gov.ar/index.php/web/content/view/full/258410/(subtema)/239105
-
 10.  Contacto:
 
      Si tienes alguna pregunta o inquietud sobre esta política de privacidad, puedes contactarnos a través de [lococoi@proton.me](mailto:lococoi@proton.me).
