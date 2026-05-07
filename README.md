@@ -12,16 +12,11 @@ En Sol Pico Ala, respetamos tu privacidad, por ello, queremos informarte sobre c
 
 2.  Uso de Internet y AdMob (Publicidad):
 
-    Nuestra aplicación utiliza conexión a internet para:
-
-    * Mostrar anuncios proporcionados por Google AdMob (si el usuario no tiene una suscripción activa).
-        * Google AdMob: Es un servicio de publicidad móvil proporcionado por Google. Al mostrar anuncios, AdMob puede recopilar y utilizar cierta información sobre tu dispositivo y tu actividad dentro de la aplicación con el fin de mostrar anuncios relevantes. Esta recopilación y uso de datos se rigen por la Política de Privacidad de Google.
-    * Obtener actualizaciones de contenido.
-    * Permitir el envío opcional de opiniones por parte del usuario.
+    Nuestra aplicación utiliza conexión a internet para obtener actualizaciones de contenido.
 
 3.  Actualizaciones de Contenido mediante JSON desde GitHub:
 
-    * La aplicación se actualiza rutinariamente obteniendo contenido (por ejemplo, nuevas preguntas para los cuestionarios) desde archivos JSON alojados en un repositorio de GitHub.
+    * La aplicación se actualiza rutinariamente obteniendo contenido (por ejemplo, valores de horas) desde archivos JSON alojados en un repositorio de GitHub.
     * Este proceso de actualización no implica la recopilación de información personal. La aplicación simplemente descarga los archivos JSON públicos para actualizar su contenido.
     * No se envía ninguna información del usuario a GitHub durante este proceso.
     * GitHub puede registrar información sobre las descargas de archivos (como la dirección IP), pero esto se rige por la Política de Privacidad de GitHub.
@@ -29,44 +24,6 @@ En Sol Pico Ala, respetamos tu privacidad, por ello, queremos informarte sobre c
     Te recomendamos encarecidamente revisar el siguiente documento de GitHub para comprender cómo se maneja la información durante los procesos de actualizaciones.
 
     * [Política de Privacidad de GitHub](https://docs.github.com/en/site-policy/privacy-policies) (https://docs.github.com/en/site-policy/privacy-policies)
-
-4.  Suscripciones a través de Google Play Billing:
-
-    Ofrecemos suscripciones mensuales para eliminar la publicidad de la aplicación. La gestión y el procesamiento de estas suscripciones se realizan a través de Google Play Billing, un servicio proporcionado por Google.
-
-    * Información de pago: Cuando decides suscribirte, la información de pago (como los datos de tu tarjeta de crédito u otra forma de pago seleccionada) se proporciona directamente a Google Play Store y es procesada por ellos. Sol Pico Ala no recopila ni almacena esta información de pago.
-    * Información de la suscripción: Google Play Store nos informa sobre el estado de tu suscripción (activa, cancelada, etc.) para poder habilitar o deshabilitar la publicidad en la aplicación según corresponda.
-
-    Te recomendamos encarecidamente revisar los siguientes documentos de Google para comprender cómo se maneja tu información durante el proceso de suscripción:
-
-    * [Términos de Servicio de Google Play](https://play.google.com/intl/ALL_es/about/play-terms/) (https://play.google.com/intl/ALL_es/about/play-terms/)
-    * [Política de Privacidad de Google](https://policies.google.com/terms?hl=es) (https://policies.google.com/terms?hl=es)
-
-5.  Información que AdMob podría recopilar (sin intervención directa de nuestra aplicación):
-
-    Aunque nuestra aplicación en sí misma no recopila datos personales, Google AdMob podría recopilar información como:
-
-    * Identificadores de publicidad: Estos son identificadores únicos asociados a tu dispositivo móvil, que AdMob utiliza para personalizar los anuncios.
-    * Información del dispositivo: Como el modelo del dispositivo, el sistema operativo, la configuración del idioma y la información de la red móvil.
-    * Información de uso: Datos sobre cómo interactúas con los anuncios mostrados en la aplicación.
-
-    Reiteramos la importancia de revisar la Política de Privacidad de Google para comprender cómo AdMob utiliza esta información.
-
-6.  Envío de opiniones por parte del usuario:
-
-    La aplicación ofrece la posibilidad opcional de enviar una opinión sobre la experiencia de uso.
-
-    * Totalmente opcional: El envío de opiniones es voluntario y no es necesario para utilizar la aplicación.
-    * Información recopilada: En caso de que el usuario decida enviar una opinión, únicamente se recopilan los siguientes datos:
-        * Versión de la aplicación.
-        * Contenido de la opinión enviada por el usuario.
-    * No se recopilan nombres, correos electrónicos, identificadores de usuario, ni ningún otro dato personal.
-    * La información enviada se procesa a través de servicios de infraestructura basados en Cloudflare (Workers y KV). Cualquier dato técnico que Cloudflare pueda registrar automáticamente (como dirección IP o metadatos de conexión) se rige exclusivamente por la Política de Privacidad de Cloudflare y no es utilizado activamente por Sol Pico Ala.
-    * Sol Pico Ala no combina la opinión con ningún otro dato ni realiza perfiles de usuario.
-
-7.  No compartimos información personal:
-   
-    Dado que Sol Pico Ala no recopila información personal directamente, no compartimos ningún dato personal con terceros. La información relacionada con las suscripciones es gestionada directamente por Google Play Store. Las opiniones enviadas se almacenan únicamente con la versión de la aplicación asociada y no contienen datos identificatorios.
 
 8.  Cambios en esta política de privacidad:
 
